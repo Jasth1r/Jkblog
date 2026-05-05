@@ -25,7 +25,8 @@ export default defineConfig({
         {
           text: 'Tech Sharing',
           items: [
-            { text: 'Overview', link: '/tech/' }
+            { text: 'Overview', link: '/tech/' },
+            { text: 'Neural Networks', link: '/tech/neural_networks' }
           ]
         }
       ]

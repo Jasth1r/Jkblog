@@ -20,9 +20,6 @@ understood it.
 
 ## Featured Posts
 
+### [Neural Networks ↗](/tech/neural_networks)
 
-```markdown
-### [Post Title ↗](/tech/post-slug)
-
-> A one-line description of the post.
-```
+> Notes from INFO371 — history of neural nets, biological neurons, perceptrons, and the transition into deep learning.
