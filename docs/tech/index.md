@@ -4,12 +4,11 @@
 
 ## Introduction
 
-Welcome to Jkblog. For me personally, this is a technical notebook —
+The blog is totally personally, I'll also let it to be a technical notebook.
 I've always believed that you only truly understand a piece of technology
-once you can explain it to someone else. So I write down what I learn,
+once you can explain it to someone else. So I write down what I learned as so far,
 not only to share with others, but as a way to test whether I've actually
-understood it. If these notes happen to help someone else along the way,
-even better.
+understood it. 
 
 ---
 
@@ -21,7 +20,6 @@ even better.
 
 ## Featured Posts
 
-_No posts yet. Once you publish posts under `docs/tech/`, list them here like this:_
 
 ```markdown
 ### [Post Title ↗](/tech/post-slug)
