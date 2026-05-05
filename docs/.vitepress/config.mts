@@ -16,6 +16,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Tech Sharing', link: '/tech/' },
       { text: 'Archive', link: '/archive' }
     ],
 
@@ -27,44 +28,11 @@ export default defineConfig({
             { text: 'Overview', link: '/tech/' }
           ]
         }
-      ],
-      '/cs186/': [
-        {
-          text: 'CS186',
-          items: [
-            { text: 'Overview', link: '/cs186/' }
-          ]
-        }
-      ],
-      '/fundamentals/': [
-        {
-          text: 'CS Fundamentals',
-          items: [
-            { text: 'Overview', link: '/fundamentals/' }
-          ]
-        }
-      ],
-      '/mysql/': [
-        {
-          text: 'MySQL',
-          items: [
-            { text: 'Overview', link: '/mysql/' },
-            { text: 'Aurora Architecture', link: '/mysql/aurora-architecture' }
-          ]
-        }
-      ],
-      '/mit-6824/': [
-        {
-          text: 'MIT 6.824',
-          items: [
-            { text: 'Overview', link: '/mit-6824/' }
-          ]
-        }
       ]
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/' }
+      { icon: 'github', link: 'https://github.com/Jasth1r/Jkblog' }
     ],
 
     footer: {
